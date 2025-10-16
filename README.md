@@ -39,6 +39,6 @@ Pour répliquer l'environnement de travail et visualiser la solution :
 
 ## 📞 Contact
 
-* *Nom :* Nesrine Bousselmi
-* *Email :* [Votre Adresse Email]
-* *LinkedIn :* [Lien vers votre profil LinkedIn]
+* *Nom :* Yosra Challekh
+* *Email :* yosra.challekh@esprit.tn
+
